@@ -1,0 +1,14 @@
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\ClassesAbstratasInterfaces\obj\Debug\net9.0\ClassesAbstratasInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\ClassesAbstratasInterfaces\obj\Debug\net9.0\ClassesAbstratasInterfaces.AssemblyInfoInputs.cache
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\ClassesAbstratasInterfaces\obj\Debug\net9.0\ClassesAbstratasInterfaces.AssemblyInfo.cs
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\ClassesAbstratasInterfaces\obj\Debug\net9.0\ClassesAbstratasInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\ClassesAbstratasInterfaces\bin\Debug\net9.0\ClassesAbstratasInterfaces.exe
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\ClassesAbstratasInterfaces\bin\Debug\net9.0\ClassesAbstratasInterfaces.deps.json
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\ClassesAbstratasInterfaces\bin\Debug\net9.0\ClassesAbstratasInterfaces.runtimeconfig.json
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\ClassesAbstratasInterfaces\bin\Debug\net9.0\ClassesAbstratasInterfaces.dll
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\ClassesAbstratasInterfaces\bin\Debug\net9.0\ClassesAbstratasInterfaces.pdb
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\ClassesAbstratasInterfaces\obj\Debug\net9.0\ClassesAbstratasInterfaces.dll
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\ClassesAbstratasInterfaces\obj\Debug\net9.0\refint\ClassesAbstratasInterfaces.dll
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\ClassesAbstratasInterfaces\obj\Debug\net9.0\ClassesAbstratasInterfaces.pdb
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\ClassesAbstratasInterfaces\obj\Debug\net9.0\ClassesAbstratasInterfaces.genruntimeconfig.cache
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\ClassesAbstratasInterfaces\obj\Debug\net9.0\ref\ClassesAbstratasInterfaces.dll

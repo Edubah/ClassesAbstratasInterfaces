@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Eduardo.santos\\.nuget\\packages\\": {}
+    "C:\\Users\\carol\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eduardo.santos\\Documents\\ESTUDOS\\Randstad - Backend com .NET\\POO\\ClassesAbstratasInterfaces\\ClassesAbstratasInterfaces.csproj",
+      "projectUniqueName": "C:\\Users\\carol\\OneDrive\\Documentos\\Eduardo\\ClassesAbstratasInterfaces\\ClassesAbstratasInterfaces.csproj",
       "projectName": "ClassesAbstratasInterfaces",
-      "projectPath": "C:\\Users\\Eduardo.santos\\Documents\\ESTUDOS\\Randstad - Backend com .NET\\POO\\ClassesAbstratasInterfaces\\ClassesAbstratasInterfaces.csproj",
-      "packagesPath": "C:\\Users\\Eduardo.santos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eduardo.santos\\Documents\\ESTUDOS\\Randstad - Backend com .NET\\POO\\ClassesAbstratasInterfaces\\obj\\",
+      "projectPath": "C:\\Users\\carol\\OneDrive\\Documentos\\Eduardo\\ClassesAbstratasInterfaces\\ClassesAbstratasInterfaces.csproj",
+      "packagesPath": "C:\\Users\\carol\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\carol\\OneDrive\\Documentos\\Eduardo\\ClassesAbstratasInterfaces\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Eduardo.santos\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\carol\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"

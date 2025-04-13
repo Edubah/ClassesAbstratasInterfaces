@@ -7,6 +7,10 @@ namespace ClassesAbstratasInterfaces.Models
 {
     public class Pessoa
     {
+        public Pessoa()
+        {
+            
+        }
         public Pessoa(string nome) // Construtor que recebe o nome como parâmetro e sempre precisará informar o nome
         {
             Nome = Nome;
@@ -19,8 +23,6 @@ namespace ClassesAbstratasInterfaces.Models
         {
             Console.WriteLine($"Olá, meu nome é {Nome} e tenho {Idade} anos.");
         }
-        {
-            Console.WriteLine($"Olá, meu nome é {Nome}, tenho {Idade} anos e meu email é {Email}.");
-        }
+        
     }
 }
